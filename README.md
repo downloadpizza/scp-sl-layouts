@@ -1,3 +1,5 @@
+# THIS IS OUTDATES AS OF PARABELLUM, I WILL UPDATE ASAP
+
 # Characters used
 ## Hallways
 `│`
